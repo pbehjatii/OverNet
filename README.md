@@ -122,7 +122,6 @@ To see how we export OverNet from PYTORCH to ONNX and running it using ONNX RUNT
   year={2021}
 }
 ```
-This implementation is for non-commercial research use only. If you find this code useful in your research, please cite the above paper. Please also see our other works:
 
 - Single image super-resolution based on directional variance attention network - Pattern Recognition, 2022. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320322004770?dgcid=author)] [[Code](https://github.com/pbehjatii/DiVANet)] 
 
